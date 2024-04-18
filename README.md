@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#I'm Shawen Harker
+# I'm Shawen Harker
 
-**`A Digital Craftsman (Full-stack developer)`**
+**` A Digital Craftsman (Full-stack developer) `**
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer building my version of the digital world, while specializing in crafting custom software solutions for clients. With a strong foundation in both front-end and back-end technologies, I thrive on turning ideas into functional and elegant applications. What sets me apart is not just my technical expertise, but also my strong communication skills and adaptability. I approach every project with agility, constantly learning and evolving to meet the ever-changing demands of the tech industry.
 
