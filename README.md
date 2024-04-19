@@ -39,7 +39,7 @@ As an ardent advocate of OpenAI's transformative potential, I've witnessed first
 </details>
 
 #
-📫 If you would like to reach out to me or collaborate👯 on a project, feel free to pop me an email at harkershawen@gmail.com
+📫 If you would like to reach out to me or collaborate👯 on a project, feel free to pop me an email📩 or connect on LinkedIn🫱🏻‍🫲🏻
 
 <!--
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
